@@ -1,0 +1,367 @@
+html, body {
+  margin: 20px;
+  padding: 0;
+  background: #192084
+;
+}
+
+.nav li {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  display: inline;
+  margin-top: 20px;
+}
+
+#Myname {
+  color: White;
+}
+
+#nametop {
+  font-family: "Arial White", Gadget, sans-serif;
+  color: white;
+}
+
+.nav a {
+  color: #C6E3FF;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  display: inline;
+  margin-top: 20px;
+}
+
+.jumbotron {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(198, 227, 255, 0.8);
+  top: 50px;
+  float: center;
+  width: auto;
+  height: auto;
+  margin: 0 0;
+  border-radius: 25px;
+}
+
+.jumbotron1 {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(198, 227, 255, 0.8);
+  top: 50px;
+  float: center;
+  width: 1275px;
+  height: 1000px;
+  margin: 0 auto;
+  border-radius: 25px;
+  padding-top: 20px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 0px;
+  left: 15px;
+  font-size: 13px;
+  color: #2C6BB1;
+  font-weight: bold;
+  margin-left: 45px;
+}
+
+.jumbotron1 .container {
+  position: relative;
+  top: 0px;
+  left: 15px;
+  font-size: 13px;
+  color: #2C6BB1;
+  font-weight: bold;
+  margin-left: 45px;
+}
+
+.jumbotron p {
+  margin-top: 10px;
+  margin-left: 45px;
+  color: #2C6BB1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.jumbotron1 p {
+  margin-top: 10px;
+  margin-left: 45px;
+  color: #2C6BB1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#name {
+  left: 35px;
+  font-size: 22px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#contact {
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+}
+
+.resumetop {
+  color: #2C6BB1;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.Objective {
+  clear: both;
+}
+
+.titlep {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+#bodyp {
+  font-size: 17px;
+}
+
+.jumbotron .container .list {
+  font-size: 15px;
+  margin-left: 30px;
+}
+
+.jumbotron1 .container .list {
+  font-size: 15px;
+  margin-left: 30px;
+}
+
+.about_me_intro p {
+  font-size: 18px;
+  float: right;
+  position: relative;
+  top: 10px;
+  margin-left: 0px;
+}
+
+
+.footer li {
+  display: inline;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  float: clear;
+  position: relative;
+  top: 25px
+}
+
+.photogrid {
+  margin-left: 35px;
+}
+
+.photogrid figure {
+  display: inline;
+  padding: 15px;
+}
+
+.photogrid img {
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+#reading {
+  width: 220px;
+  height: 220px;
+  margin-right: 23px;
+}
+
+#food {
+  width: 330px;
+  height: 220px;
+  margin-right: 23px;
+}
+
+#deca {
+  width: 220px;
+  height: 220px;
+}
+
+#photography {
+  width: 391px;
+  height: 220px;
+}
+
+#programming {
+  width: 333px;
+  height: 220px;
+  margin-right: 7px;
+}
+
+#badminton {
+  width: 352px;
+  height: 220px;
+}
+
+#math {
+  width: 391px;
+  height: 220px;
+}
+
+#family {
+  width: 391px;
+  height: 220px;
+}
+
+#T4 {
+  width: 169px;
+  height: 220px;
+}
+
+/*iframe #contact_form {
+  border: 5px solid white;
+  border-radius: 10px;
+  height: 330px;
+  width: 400px;
+  width: 450px;
+  height: 620px;
+  margin-left: 10px;
+}*/
+
+.pano1 #beach {
+  border: 5px solid white;
+  border-radius: 10px;
+  height: 180px;
+  width: 1135px;
+  padding-left: 0px;
+}
+
+.leftblock{
+  display: inline;
+  z-index: 10;
+  float: left;
+}
+
+.leftblock #profile {
+  height: 380px;
+  width: 220px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#embeddedscratch {
+  height: 330px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#Photobooth {
+  height: 290px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#Quest_code {
+  height: 290px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#DeliveryMachine {
+  height: 290px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#PCB {
+  height: 290px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#Projectsjumbo {
+	height: 4150px;
+	float: center;
+	padding-right: 45px;
+}
+
+.skills_sum {
+  float: left;
+  border: 5px solid white;
+  border-radius: 10px;
+  width: 220px;
+  text-align: left;
+  margin-top: 20px
+}
+
+#abouttitle {
+  font-size: 12px;
+  text-transform: uppercase;
+  position: relative;
+  left: -40px;
+}
+
+/*.projectsbox {
+  position: relative;
+}*/
+
+.hobbies img {
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+.hobbies div {
+  display: inline;
+  margin-right: 15px;
+}
+
+.hobbies p {
+  margin-right: 25px;
+}
+
+#fuuka {
+  height: 190px;
+  width: 135px;
+}
+
+#charlotte {
+  height: 190px;
+  width: 320px;
+}
+
+#kimimachi {
+  height: 190px;
+  width: 300px;
+}
+
+#SwKnU {
+  height: 190px;
+  width: 130px;
+}
+
+#metalearth {
+  text-decoration: underline, bold;
+  color: blue;
+}
