@@ -1,0 +1,304 @@
+html, body {
+  margin: 20px;
+  padding: 0;
+  background: url("http://content.wallpapers-room.com/presentationBig/background_37_space_by_frostbo.png");
+}
+
+.nav li {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  display: inline;
+  margin-top: 20px;
+}
+
+#nametop {
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.nav a {
+  color: #C6E3FF;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  display: inline;
+  margin-top: 20px;
+}
+
+.jumbotron {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgba(198, 227, 255, 0.8);
+  top: 50px;
+  float: center;
+
+  margin: 0 auto;
+  border-radius: 25px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 0px;
+  left: 15px;
+  font-size: 13px;
+  color: #2C6BB1;
+  font-weight: bold;
+  margin-left: 45px;
+}
+
+.jumbotron p {
+  margin-top: 10px;
+  margin-left: 45px;
+  color: #2C6BB1;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+#name {
+  left: 35px;
+  font-size: 22px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+#contact {
+  font-size: 15px;
+  text-align: center;
+  position: relative;
+}
+
+.resumetop {
+  color: #2C6BB1;
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.Objective {
+  clear: both;
+}
+
+.titlep {
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+#bodyp {
+  font-size: 17px;
+}
+
+.jumbotron .container .list {
+  font-size: 15px;
+  margin-left: 30px;
+}
+
+.about_me_intro p {
+  font-size: 18px;
+  float: right;
+  display: inline;
+  position: relative;
+  top: -20px;
+}
+
+.about_me_intro #aboutme-title {
+  font-size: 26px;
+  text-align: left;
+  float: left;
+  margin-top: 35px;
+}
+
+.footer li {
+  display: inline;
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  float: clear;
+  position: relative;
+  top: 25px
+}
+
+.photogrid {
+  margin-left: 35px;
+}
+
+.photogrid figure {
+  display: inline;
+  padding: 15px;
+}
+
+.photogrid img {
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 30px;
+}
+
+#reading {
+  width: 220px;
+  height: 220px;
+  margin-right: 23px;
+}
+
+#food {
+  width: 330px;
+  height: 220px;
+  margin-right: 23px;
+}
+
+#deca {
+  width: 220px;
+  height: 220px;
+}
+
+#photography {
+  width: 391px;
+  height: 220px;
+}
+
+#programming {
+  width: 333px;
+  height: 220px;
+  margin-right: 7px;
+}
+
+#badminton {
+  width: 352px;
+  height: 220px;
+}
+
+#math {
+  width: 391px;
+  height: 220px;
+}
+
+#family {
+  width: 391px;
+  height: 220px;
+}
+
+#T4 {
+  width: 169px;
+  height: 220px;
+}
+
+iframe {
+  border: 5px solid white;
+  border-radius: 10px;
+  width: 450px;
+  height: 620px;
+  margin-left: 50px;
+}
+
+.pano1 #beach {
+  border: 5px solid white;
+  border-radius: 10px;
+  height: 180px;
+  width: 1135px;
+  padding-left: 0px;
+}
+
+.leftblock{
+  display: inline;
+  z-index: 10;
+  float: left;
+}
+
+.leftblock #profile {
+  height: 380px;
+  width: 220px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+#embeddedscratch {
+  height: 330px;
+  width: 400px;
+  border: 3px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#Photobooth {
+  height: 290px;
+  width: 400px;
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-left: 10px;
+}
+
+#Projectsjumbo {
+	height: 1000px;
+}
+
+.skills_sum {
+  float: left;
+  position: relative;
+  border: 5px solid white;
+  border-radius: 10px;
+  top: -25px;
+  width: 220px;
+  text-align: left;
+}
+
+#abouttitle {
+  font-size: 12px;
+  text-transform: uppercase;
+  position: relative;
+  left: -40px;
+}
+
+.projectsbox {
+  position: relative;
+  left:-25px;
+}
+
+.hobbies img {
+  border: 5px solid white;
+  border-radius: 10px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+  margin-left: 50px;
+  margin-right: 20px;
+}
+
+.hobbies div {
+  display: inline;
+  margin-right: 15px;
+}
+
+.hobbies p {
+  margin-right: 25px;
+}
+
+#fuuka {
+  height: 190px;
+  width: 135px;
+}
+
+#charlotte {
+  height: 190px;
+  width: 320px;
+}
+
+#kimimachi {
+  height: 190px;
+  width: 300px;
+}
+
+#SwKnU {
+  height: 190px;
+  width: 130px;
+}
+
+#metalearth {
+  text-decoration: underline, bold;
+  color: blue;
+}
